@@ -1,0 +1,1 @@
+carpeta para almacenar los frames capturados

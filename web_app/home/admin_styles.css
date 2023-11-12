@@ -1,0 +1,8 @@
+/* Limita el ancho de todas las celdas a 50px */
+table .field-readonly,
+table .field-editable {
+    max-width: 50px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

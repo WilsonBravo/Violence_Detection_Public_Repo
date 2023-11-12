@@ -1,0 +1,19 @@
+# Ignora carpeta llamada "env"
+/web_app/env/Include/*
+/web_app/env/Scripts/*
+/web_app/env/Lib/site-packages/*
+/web_app/env/pyvenv.cfg
+# Excepto la carpeta admin_adminlte dentro de env\Lib\site-packages
+!/web_app/env/Lib/site-packages/admin_adminlte
+tesis_env
+# Ignorar todo el contenido de las carpetas, excepto el archivo readme.txt
+frames/*
+!frames/README.txt
+video/*
+!video/README.txt
+# Ignorar todos los archivos caché python
+*.pyc
+__pycache__
+/__pycache__/
+/__pycache__
+__pycache__/*

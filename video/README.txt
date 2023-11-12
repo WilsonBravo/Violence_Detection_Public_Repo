@@ -1,0 +1,1 @@
+Carpeta para almacenar el video que se va a compartir en Telegram
